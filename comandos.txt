@@ -1,0 +1,6 @@
+npm init -y : para criar o package.json do projeto
+
+npm install express : para instalar o express
+
+****se der erro de cors****
+npm install cors : para instalar o cors
